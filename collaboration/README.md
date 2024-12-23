@@ -4,10 +4,10 @@
 <!-- group norms summary -->
 
 Welcome to our team! Our group thrives on mutual trust, open communication, and respect,
-fostering a collaborative environment where every member’s ideas and contributions are valued.
-We aim to work efficiently and harmoniously by balancing creativity and critical thinking,
-supporting one another to achieve our shared goals while maintaining a culture of accountability
-and care.
+fostering a collaborative environment where every member’s ideas and contributions
+are valued.We aim to work efficiently and harmoniously by balancing creativity
+and critical thinking, supporting one another to achieve our shared goals while
+maintaining a culture of accountability and care.
 
 <!-- group norms list -->
 
@@ -21,21 +21,25 @@ and care.
    and team achievements to foster affective trust.
 - **Open Communication**: Communicate openly, honestly, and respectfully.
   Share concerns early and constructively.
-- **Shared Knowledge**: Promote mutual learning by sharing knowledge and being open to new ideas.
-- **Accountability**: Take responsibility for your tasks. Ask for help when needed and ensure all
+- **Shared Knowledge**: Promote mutual learning by sharing knowledge and being
+  open to new ideas.
+- **Accountability**: Take responsibility for your tasks. Ask for help when
+  needed and ensure all
 contributions align with team goals.
-- **Respectful Listening**: Value everyone’s input by listening without interrupting and
-acknowledging diverse perspectives.
-- **Inclusivity**: Create a safe space for honest communication and ensure equal opportunities for
-all members to contribute.
-- **Feedback and Recognition**: Offer constructive feedback focused on the issue, not the individual.
+- **Respectful Listening**: Value everyone’s input by listening without
+  interrupting and acknowledging diverse perspectives.
+- **Inclusivity**: Create a safe space for honest communication and ensure equal
+  opportunities for all members to contribute.
+- **Feedback and Recognition**: Offer constructive feedback focused on the issue,
+  not the individual.
 Celebrate successes and recognize contributions regularly.
-- **Adaptability**: Stay flexible and open to change, adapting strategies as needed to overcome
-challenges.
+- **Adaptability**: Stay flexible and open to change, adapting strategies as
+  needed to overcome challenges.
 
 ### Rebuilding Trust if Damaged
 
-- Address issues openly and respectfully in a private setting to avoid unnecessary tension.
+- Address issues openly and respectfully in a private setting to avoid
+  unnecessary tension.
 - Apologize sincerely if at fault and outline steps to prevent future issues.
 - Be willing to forgive
 and move forward together.
@@ -48,23 +52,27 @@ and move forward together.
 ### Balancing Discussion and Debate
 
 - Use discussions to explore ideas, brainstorm, and align on shared understanding.
-- Transition to debates when decisive action or resolution of differing viewpoints is needed,
-ensuring structured and goal-oriented exchanges.
+- Transition to debates when decisive action or resolution of differing
+  viewpoints is needed, ensuring structured and goal-oriented exchanges.
 - Maintain respect and active listening in both discussion and debate to ensure inclusivity
 and productivity.
 
 ### Approaching Meetings and Agendas
 
-- Schedule meetings at times accommodating all members, considering personal and cultural commitments.
+- Schedule meetings at times accommodating all members, considering personal and
+  cultural commitments.
 - Share agendas at least 24 hours in advance, outlining topics, goals, and time allocations.
-- Assign rotating roles such as facilitator, note-taker, and timekeeper to share responsibilities.
+- Assign rotating roles such as facilitator, note-taker, and timekeeper to share
+  responsibilities.
 - Start and end meetings on time. Review decisions and action items before closing.
 - Use tools like Slack or Google Calendar to coordinate meeting times effectively.
 
 ### Communication Channels
 
-- Use group chat platforms (e.g., Slack) for progress updates, announcements, and casual discussions.
-- Document and share important updates in centralized platforms like Google Drive or Notion
+- Use group chat platforms (e.g., Slack) for progress updates, announcements,
+  and casual discussions.
+- Document and share important updates in centralized platforms like Google
+  Drive or Notion
 for accessibility.
 - Utilize video calls for in-depth discussions and synchronous collaboration.
 
