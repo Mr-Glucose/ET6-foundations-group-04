@@ -13,7 +13,8 @@ Author: Chrismy Leprince Paul Augustin
 """
 
 import unittest
-from solutions.spongecase import spongecase
+
+from solutions.challenge_2.spongecase import spongecase
 
 
 class TestSpongeCase(unittest.TestCase):
@@ -76,7 +77,3 @@ class TestSpongeCase(unittest.TestCase):
             Result: "hElLo?1#aB"
         """
         self.assertEqual(spongecase("Hello?1#Ab"), "hElLo?1#aB")
-
-
-if __name__ == "__main__":
-    unittest.main()
