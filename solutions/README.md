@@ -17,4 +17,4 @@ spongecase("hello world")
 spongecase("Python")
 # Output: "pYtHoN"
 
-- Challenge Link: [GitHub Issue](https:https://github.com/MIT-Emerging-Talent/ET6-foundations-group-04/issues/2)
+- Challenge Link: [GitHub Issue](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-04/issues/2)
