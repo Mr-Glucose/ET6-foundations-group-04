@@ -14,7 +14,7 @@ Author: Your Name
 
 import unittest
 
-from solutions.challenge_15.solution import binary_to_decimal
+from solutions.challenge_15.binary_to_decimal import binary_to_decimal
 
 
 class TestBinaryToDecimal(unittest.TestCase):
