@@ -8,8 +8,8 @@ Test categories:
     - Edge cases: single-bit binary strings, leading zeros
     - Defensive tests: invalid inputs, non-binary strings
 
-Created on 2024-12-06
-Author: Your Name
+Created on 28/12/2024
+Author: Ramon Colmenares
 """
 
 import unittest
