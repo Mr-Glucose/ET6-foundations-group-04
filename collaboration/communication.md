@@ -34,7 +34,7 @@ ______________________________________________________________________
 
 | Day      | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday|
 |----------|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:----:|
-|Ramon|        |         |           |          |        |          |      |
+|          |        |         |           |          |        |          |      |
 
 ### How many hours everyone has per day
 
