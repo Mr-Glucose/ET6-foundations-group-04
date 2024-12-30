@@ -1,4 +1,5 @@
 # Coding Pioneers United - Team repository
+![technology Python](https://img.shields.io/badge/technology-python-blue.svg)
 
 Welcome to our team! Our group thrives on mutual trust, open communication, and
 respect, fostering a collaborative environment where every member’s ideas and
@@ -6,75 +7,18 @@ contributions are valued. We aim to work efficiently and harmoniously by balanci
 creativity and critical thinking, supporting one another to achieve our shared goals
 while maintaining a culture of accountability and care.
 
-## Meet the Team
+## Meet the team
 
-<!-- markdownlint-disable-next-line MD033 -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+|           | **Name**                                                                                               | **GitHub**                                              |
+|-----------|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://avatars.githubusercontent.com/u/189562848?v=4" width="50" height="50"> | Ana Murillo             | [AnaiMurillo](https://github.com/AnaiMurillo)           |
+| <img src="https://avatars.githubusercontent.com/u/188538629?v=4" width="50" height="50"> | Chrismy Augustin        | [likechrisss](https://github.com/likechrisss)           |
+| <img src="https://avatars.githubusercontent.com/u/92646899?v=4" width="50" height="50"> | Cliforde Exael           | [Lastrophysicien](https://github.com/Lastrophysicien)   |
+| <img src="https://avatars.githubusercontent.com/u/115899276?v=4" width="50" height="50"> | Hector Colmenares       | [hectordacb](https://github.com/hectordacb)             |
+| <img src="https://avatars.githubusercontent.com/u/189242306?v=4" width="50" height="50"> | Jeampierr Jiménez       | [Jeampierr1102](https://github.com/Jeampierr1102)       |
+| <img src="https://avatars.githubusercontent.com/u/86928180?v=4" width="50" height="50"> | Ramon Colmenares         | [RamonColmenares](https://github.com/RamonColmenares)   |
+| <img src="https://avatars.githubusercontent.com/u/189634607?v=4" width="50" height="50"> | Semira Tesfai           | [SEMIRATESFAI](https://github.com/SEMIRATESFAI)         | 
 
-<!-- markdownlint-disable-next-line MD033 -->
-  <div style="text-align: center;">
-  <!-- markdownlint-disable-next-line MD033 -->
-    <img src="https://avatars.githubusercontent.com/u/189562848?v=4"
-    alt="Ana Isabel Murillo" style="width: 100px; height: 100px; border-radius: 50%;">
-    <!-- markdownlint-disable-next-line MD033 -->
-    <p><a href="https://github.com/AnaiMurillo">Ana Isabel Murillo</a></p>
-  </div>
-
-<!-- markdownlint-disable-next-line MD033 -->
-  <div style="text-align: center;">
-  <!-- markdownlint-disable-next-line MD033 -->
-    <img src="https://avatars.githubusercontent.com/u/188538629?v=4"
-    alt="Chrismy Augustin" style="width: 100px; height: 100px; border-radius: 50%;">
-    <!-- markdownlint-disable-next-line MD033 -->
-    <p><a href="https://github.com/likechrisss">Chrismy Augustin</a></p>
-  </div>
-
-<!-- markdownlint-disable-next-line MD033 -->
-  <div style="text-align: center;">
-  <!-- markdownlint-disable-next-line MD033 -->
-    <img src="https://avatars.githubusercontent.com/u/92646899?v=4"
-    alt="Cliforde Exael" style="width: 100px; height: 100px; border-radius: 50%;">
-    <!-- markdownlint-disable-next-line MD033 -->
-    <p><a href="https://github.com/Lastrophysicien">Cliforde Exael</a></p>
-  </div>
-
-<!-- markdownlint-disable-next-line MD033 -->
-  <div style="text-align: center;">
-  <!-- markdownlint-disable-next-line MD033 -->
-    <img src="https://avatars.githubusercontent.com/u/115899276?v=4"
-    alt="Hector Colmenares" style="width: 100px; height: 100px; border-radius: 50%;">
-    <!-- markdownlint-disable-next-line MD033 -->
-    <p><a href="https://github.com/hectordacb">Hector Colmenares</a></p>
-  </div>
-
-<!-- markdownlint-disable-next-line MD033 -->
-  <div style="text-align: center;">
-  <!-- markdownlint-disable-next-line MD033 -->
-    <img src="https://avatars.githubusercontent.com/u/189242306?v=4"
-    alt="Jeampierr Jiménez" style="width: 100px; height: 100px; border-radius: 50%;">
-    <!-- markdownlint-disable-next-line MD033 -->
-    <p><a href="https://github.com/Jeampierr1102">Jeampierr Jiménez</a></p>
-  </div>
-
-<!-- markdownlint-disable-next-line MD033 -->
-  <div style="text-align: center;">
-  <!-- markdownlint-disable-next-line MD033 -->
-    <img src="https://avatars.githubusercontent.com/u/86928180?v=4"
-    alt="Ramon Colmenares" style="width: 100px; height: 100px; border-radius: 50%;">
-    <!-- markdownlint-disable-next-line MD033 -->
-    <p><a href="https://github.com/RamonColmenares">Ramon Colmenares</a></p>
-  </div>
-
-<!-- markdownlint-disable-next-line MD033 -->
-  <div style="text-align: center;">
-  <!-- markdownlint-disable-next-line MD033 -->
-    <img src="https://avatars.githubusercontent.com/u/189634607?v=4"
-    alt="Semira Tesfai" style="width: 100px; height: 100px; border-radius: 50%;">
-    <!-- markdownlint-disable-next-line MD033 -->
-    <p><a href="https://github.com/usuario7">Semira Tesfai</a></p>
-  </div>
-
-</div>
 
 ## Project Progress
 
@@ -82,7 +26,7 @@ We track our progress using the
 [GitHub Kanban Board](https://github.com/orgs/MIT-Emerging-Talent/projects/104).
 Here's a quick look at our board in action:
 
-![Kanban Board Preview](assets\kabanboard04.gif)
+![Kanban Board Preview](assets/kabanboard04.gif)
 
 ## Technologies & Tools 🛠️
 
@@ -112,3 +56,4 @@ installed and are signed into your GitHub account.
 
 Please refer to our [Contributing Guide](CONTRIBUTING.md) for information
 on how to contribute to this project.
+
