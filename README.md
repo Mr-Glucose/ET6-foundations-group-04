@@ -27,6 +27,11 @@ while maintaining a culture of accountability and care.
          </td>
          <td>Ana Isabel Murillo</td>
          <td><a href="https://github.com/AnaiMurillo">AnaiMurillo</a></td>
+      </tr><tr>
+         <td><img src="https://avatars.githubusercontent.com/u/174089681?v=4"
+         alt="Mr-Glucose" width="50"></td>
+         <td>Arthur Dorvil</td>
+         <td><a href="https://github.com/Mr-Glucose">Mr-Glucose</a></td>
       </tr>
       <tr>
          <td><img src="https://avatars.githubusercontent.com/u/188538629?v=4"
@@ -51,6 +56,13 @@ while maintaining a culture of accountability and care.
          alt="Jeampierr Jiménez" width="50"></td>
          <td>Jeampierr Jiménez</td>
          <td><a href="https://github.com/Jeampierr1102">Jeampierr1102</a></td>
+      </tr>
+      <td>
+            <img src="https://avatars.githubusercontent.com/u/189233851?v=4"
+                 alt="Pierre Kenley MERVIL" width="50">
+         </td>
+         <td>Pierre Kenley MERVIL</td>
+         <td><a href="https://github.com/MPKenley">MPKenley</a></td>
       </tr>
       <tr>
          <td><img src="https://avatars.githubusercontent.com/u/86928180?v=4"
