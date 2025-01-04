@@ -27,7 +27,15 @@ while maintaining a culture of accountability and care.
          </td>
          <td>Ana Isabel Murillo</td>
          <td><a href="https://github.com/AnaiMurillo">AnaiMurillo</a></td>
-      </tr><tr>
+      </tr>
+      <td>
+            <img src="https://avatars.githubusercontent.com/u/189357565?v=4"
+                 alt="Adolfo Fumero" width="50">
+         </td>
+         <td>Adolfo Fumero</td>
+         <td><a href="https://github.com/ajfumero8">ajfumero8</a></td>
+      </tr>
+      <tr>
          <td><img src="https://avatars.githubusercontent.com/u/174089681?v=4"
          alt="Mr-Glucose" width="50"></td>
          <td>Arthur Dorvil</td>
