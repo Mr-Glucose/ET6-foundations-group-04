@@ -12,6 +12,10 @@ class TestTribonacci(unittest.TestCase):
         self.assertEqual(tribonacci(1), 1)  # Base case T(1)
         self.assertEqual(tribonacci(2), 1)  # Base case T(2)
 
+        self.assertIsInstance(tribonacci(0), int, "output should be an integer")
+        self.assertIsInstance(tribonacci(1), int, "Output should be an integer.")
+        self.assertIsInstance(tribonacci(2), int, "Output should be an integer.")
+
     def test_standard_cases(self):
         """Test standard cases."""
         self.assertEqual(tribonacci(3), 2)  # 0, 1, 1, 2
@@ -19,11 +23,21 @@ class TestTribonacci(unittest.TestCase):
         self.assertEqual(tribonacci(5), 7)  # 0, 1, 1, 2, 4, 7
         self.assertEqual(tribonacci(6), 13)  # 0, 1, 1, 2, 4, 7, 13
 
+        self.assertIsInstance(tribonacci(3), int, "Output should be an integer.")
+        self.assertIsInstance(tribonacci(4), int, "Output should be an integer.")
+        self.assertIsInstance(tribonacci(5), int, "Output should be an integer.")
+        self.assertIsInstance(tribonacci(6), int, "Output should be an integer.")
+
     def test_large_values(self):
         """Test for larger values of n."""
         self.assertEqual(tribonacci(10), 149)  # Verify correct calculation for T(10)
         self.assertEqual(tribonacci(15), 3136)  # Verify correct calculation for T(15)
 
+        self.assertIsInstance(tribonacci(10), int, "Output should be an integer.")
+        self.assertIsInstance(tribonacci(15), int, "Output should be an integer.")
+
     def test_edge_cases(self):
         """Test edge cases."""
         self.assertEqual(tribonacci(30), 29249425)  # Large n value
+
+        self.assertIsInstance(tribonacci(30), int, "Output should be an integer.")
