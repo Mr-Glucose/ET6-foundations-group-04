@@ -1,3 +1,17 @@
+"""
+Unit tests for the tribonacci function.
+
+This module tests the tribonacci function to ensure it calculates the nth Tribonacci number correctly.
+The test cases include:
+    - Base cases (e.g., T(0), T(1), T(2)).
+    - Standard cases (e.g., T(5), T(10)).
+    - Edge cases (e.g., large n values).
+    - Defensive assertions for invalid inputs.
+
+Created on: 01/01/2025
+Author: Ana Isabel Murillo
+"""
+
 import unittest
 
 from solutions.the_tribonacci_sequence.main import tribonacci
