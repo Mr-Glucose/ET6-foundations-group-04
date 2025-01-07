@@ -9,9 +9,27 @@
       "type": "debugpy",
       "request": "launch",
       "program": "-m",
-      "args": ["unittest", "${file}"],
+      "args": [
+        "unittest",
+        "${file}"
+      ],
       "console": "integratedTerminal",
       "justMyCode": true
+    },
+    {
+      "name": "Docker: Python - General",
+      "type": "docker",
+      "request": "launch",
+      "preLaunchTask": "docker-run: debug",
+      "python": {
+        "pathMappings": [
+          {
+            "localRoot": "${workspaceFolder}",
+            "remoteRoot": "/app"
+          }
+        ],
+        "projectType": "general"
+      }
     }
   ]
 }
