@@ -38,8 +38,8 @@ def fizzbuzz(n: int) -> list[str]:
         >>> fizzbuzz(15)[-1]
         'FizzBuzz'
     """
-    if not isinstance(n, int) or n <= 0:
-        raise ValueError("n must be a positive integer.")
+    assert isinstance(n, int), "n must be an integer"
+    assert n > 0, "n must be a positive integer"
 
     result = []
     for i in range(1, n + 1):
